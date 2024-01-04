@@ -20,7 +20,7 @@ func generateRandomNames() []string {
 	return allNames
 }
 
-func main() {
+func binary_search() {
 	listNames := generateRandomNames()
 	fmt.Println("Names: ", len(listNames))
 
